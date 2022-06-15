@@ -1,1 +1,2 @@
 # Red-Black-Trees
+In this folder, I visually demonstrate how 2-3 and Red-Black trees can be constructed and modified, by showing what happens when the sequences "Y L P M X H C R A E S T B C A" and "A L G O R I T H M S X Y Z" are inserted into each data structure. I also write a program that shows the final result when the numbers 1 - 60 are inserted into a Red - Black tree and then the numbers 1 - 20 are deleted.
